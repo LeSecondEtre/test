@@ -1,0 +1,25 @@
+La classe ClientGui est une interface Swing qui s'occupe de l'enregistrement des donnée d'un client ( à supprimer )
+
+La classe DateSave est une interface Swing permet à l'administrateur de sauvegarder la date d'entrée d'un client dans la base de donnée
+
+La classe FormulaireReservation est une interface Swing qui permet d'effectuer la réservation 
+
+La classe gestionReservation permet de gerer les chambres -- disponible ou pas -- , -- incrementent ou les decrementent -- dans l'hôtel
+
+La classe Lecture Chambre permet de lire les données des chambre dans le fichier room.txt --occupé ou non--
+
+La classe LectureFichierTexteClient permet de lire les données qui sont stocké dans le fichier text de client client_data.txt
+
+La classe LectureRoom permet de lire les données qui sont stocké dans le fichier text room.txt
+
+La classe RoomForm et RoomFormu sont à supprimer
+
+Les methodes enregistrer dans les fichier txt doivent être remplacé par methodes enregistrer dans les fichier xml
+
+Les classes Lectures dans fichiers txt doivent être remplacé par des classes lectures dans fichiers xml
+
+Reajuster les interfaces swing pour qu'ils soient plus agréable
+
+Definir des images arrières planes et remplacer les icônes java par des icônes plus agréables à voir
+
+Et ajouter un message de bienvenu dans l'interface principale de l'application 

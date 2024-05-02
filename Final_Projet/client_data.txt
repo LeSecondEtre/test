@@ -1,0 +1,5 @@
+Client [id=12, name=hala, city=lakhal, country=22]
+Client [id=1, name=a, city=b, country=c]
+Client [id=1, name=1, city=11, country=1]
+Client [id=1, name=ZEMBA, city=Wendemi Brice Roéme, country=Rabat]
+Client [id=, name=, city=, country=]
